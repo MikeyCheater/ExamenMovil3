@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores para el modo claro -->
+    <color name="primary">#4CAF50</color>
+    <color name="primaryContainer">#A5D6A7</color>
+    <color name="secondary">#03DAC6</color>
+    <color name="secondaryContainer">#B2DFDB</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="darkGray">#4D4D4D</color>
+    <color name="lightGray">#E0E0E0</color>
+    <color name="darkText">#212121</color>
+    <color name="lightBackground">#FAFAFA</color>
+
+    <!-- Colores para el modo oscuro -->
+    <color name="primaryDark">#388E3C</color>
+    <color name="primaryContainerDark">#2E7D32</color>
+    <color name="secondaryDark">#03DAC6</color>
+    <color name="secondaryContainerDark">#018786</color>
+    <color name="darkBackground">#121212</color>
+    <color name="lightText">#E0E0E0</color>
+</resources>
