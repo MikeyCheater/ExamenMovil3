@@ -10,7 +10,7 @@
         android:id="@+id/tvInstructions"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Instrucciones:\n- Click para llamar al profesor.\n- Click largo para enviar un correo."
+        android:text="Instrucciones:\n- Click para llamar a los profesores.\n- Click largo para enviar un correo."
         android:textAppearance="?attr/textAppearanceBody2"
         android:padding="8dp"
         app:layout_constraintTop_toTopOf="parent"
